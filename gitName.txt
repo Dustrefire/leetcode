@@ -14,3 +14,9 @@ git commit -m "提交信息"
 
 
 git push origin 新分支名
+
+
+git remote -v
+
+
+git remote set-url origin https://github.com/username/repository.git
