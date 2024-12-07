@@ -1,0 +1,16 @@
+git config user.name "Dustrefire"
+git config user.email "2519421972@qq.com"
+
+
+git clone https://github.com/你的用户名/仓库名.git
+cd 仓库名
+
+
+git checkout -b 新分支名
+
+
+git add .
+git commit -m "提交信息"
+
+
+git push origin 新分支名
