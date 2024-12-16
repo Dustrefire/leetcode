@@ -20,3 +20,6 @@ git remote -v
 
 
 git remote set-url origin https://github.com/username/repository.git
+
+
+git branch --set-upstream-to=origin/zjb_1130 zjb_1130  # 设置本地 zjb_1130 分支跟踪远程 origin/main 分支
